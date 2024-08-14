@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sarthak!<br><br>💻 Passionate programmer with a love for coding, problem-solving, and building efficient software. My expertise spans across [mention key programming languages or technologies], and I enjoy working on [mention areas like web development, data science, AI, open-source, etc.].<br><br>🌱 I'm constantly learning and exploring new technologies to keep my skills sharp and up-to-date.<br><br><br> 
+👋 Hi, I'm Sarthak!<br><br>💻 Passionate programmer with a love for coding, problem-solving, and building efficient software. My expertise spans across JAVA,Node.js, SQL and I enjoy working on web development, data science, AI, open-source, etc.<br><br>🌱 I'm constantly learning and exploring new technologies to keep my skills sharp and up-to-date.<br><br><br> 
 
 
 ## 🌐 Socials:
